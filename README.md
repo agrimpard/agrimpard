@@ -1,8 +1,4 @@
-# Github : Aurélien Grimpard
-
-Github page : [agrimpard.github.io](https://agrimpard.github.io)
-
-## Vector world map
+# Vector world map
 
 This world map is a combination of classic tiles with vector overlays (SVG) based on Leaflet.
 The objective is to display an interactive map, in color, as simply as possible, as aesthetically as possible, with open source content.
