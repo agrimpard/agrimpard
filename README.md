@@ -1,1 +1,1 @@
-**Github page** : ![agrimpard.github.com](https://agrimpard.github.com)
+**Github page** : ![agrimpard.github.io](https://agrimpard.github.io)
